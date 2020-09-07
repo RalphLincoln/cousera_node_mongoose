@@ -1,0 +1,11 @@
+{
+  "name": "nodeMongoose",
+  "version": "1.0.0",
+  "description": "Mongoose node tutorial",
+  "main": "index.js",
+  "author": "Alaneme Ikenna Raphael",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^5.10.3"
+  }
+}
